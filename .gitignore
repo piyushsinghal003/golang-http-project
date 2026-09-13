@@ -1,0 +1,5 @@
+/bin/
+/api
+/server
+*.exe
+.DS_Store
